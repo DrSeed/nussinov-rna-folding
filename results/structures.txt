@@ -1,0 +1,4 @@
+sequence        CGGGAUCAAAAAAUGAUCCCGAACCCUAGUGCACUAACACUAGUUUAAGUCGCUCUCGACU
+designed        ((((((((.....))))))))....((((((......))))))....(((((....)))))
+Nussinov        .((((((..(...))))))((((...)((((.((((((....))).).)))))).))).).
+stacking-aware  (((((((.......)))))))((..((((((......))))))))..(((((....)))))
